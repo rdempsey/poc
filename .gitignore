@@ -106,5 +106,8 @@ venv.bak/
 # CondaAuto
 .condaauto
 
-# IDS
+# IDE
 .idea/*
+
+# Temporary files
+dags/tmp.dot
