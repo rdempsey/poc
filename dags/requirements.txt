@@ -8,3 +8,4 @@ pygraphviz>=1.5
 pydot>=1.2.4
 pyyaml>=3.13
 lxml>=4.2.5
+nxviz>=0.6.0
